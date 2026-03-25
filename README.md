@@ -6,8 +6,6 @@
 
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-2ea043?style=flat-square)
-![Azure](https://img.shields.io/badge/Microsoft-Azure%20Certified-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
-![CCNA](https://img.shields.io/badge/Cisco-CCNA%20Certified-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
 
 _Building scalable apps_
 
@@ -28,9 +26,9 @@ _Building scalable apps_
 
 <div align="center">
 
-![Dhia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhia-eddine&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=c9d1d9)
+![Dhia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhia-eddine&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=c9d1d9&count_private=true)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-eddine&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-eddine&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhia-eddine&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=7ee787&currStreakLabel=58a6ff)
 

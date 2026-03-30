@@ -32,7 +32,7 @@ _Building scalable apps_
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-eddine&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true)-->
 <!--github-dark-blue / radical-->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dhia-eddine&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=7ee787&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=dhia-eddine&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=7ee787&currStreakLabel=58a6ff)
 
 </div>
 

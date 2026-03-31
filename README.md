@@ -5,6 +5,7 @@
 ### `> Full Stack Developer`
 
 
+</div>
 ---
 
 ## 🧑‍💻 About Me

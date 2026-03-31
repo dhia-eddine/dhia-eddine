@@ -5,12 +5,6 @@
 ### `> Full Stack Developer`
 
 
-![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-2ea043?style=flat-square)
-
-_Building scalable apps_
-
-</div>
-
 ---
 
 ## 🧑‍💻 About Me

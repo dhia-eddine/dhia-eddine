@@ -91,6 +91,6 @@
 
 <div align="center">
 
-_✦ Made with passion ❤️ ✦_
+✦ Made with passion ✦
 
 </div>

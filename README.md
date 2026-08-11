@@ -30,8 +30,8 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=dhia-eddine&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=7ee787&currStreakLabel=58a6ff) -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhia-eddine&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=7ee787&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhia-eddine&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=7ee787&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</div> -->
 
 ---
 
